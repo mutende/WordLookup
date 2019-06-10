@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Word Finder</string>
+    <string name="word">Word:</string>
+    <string name="translate">Translate</string>
+    <string name="exit">Exit</string>
+    <string name="the_word">Your Word</string>
+</resources>
